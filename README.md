@@ -8,7 +8,6 @@ To understand each step in detail, refer to this article: [Deep Dive into CrewAI
 ## Repository Structure
 
 - `email_agent.ipynb`: A Jupyter Notebook containing the implementation of our Email-Agent. It covers data preprocessing, model training, and response generation.
-- `assets/`: Additional resources (e.g., sample emails, pre-trained models) used during development.
 - `LICENSE`: MIT license information for this repository.
 - `README.md`: You're reading it! 😊
 
